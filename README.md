@@ -53,6 +53,10 @@ Whether you collect vintage Macintosh computers, classic click-wheel iPods, deve
 * **Dynamic Cycle Tracking**: Intelligently tunes recharge frequency based on historical health and battery chemistry.
 * **Vintage & Untracked Support**: One-tap toggling to ignore battery alerts for AC-powered vintage machines or damaged shelf display units.
 
+<p align="center">
+  <img src="docs/screenshots/battery_health.png" alt="Battery Health & Quarterly Maintenance Workbench" width="92%">
+</p>
+
 ### 🎯 4. Wishlist & Launch Drops Radar
 * **Launch Drops Countdown**: Track upcoming hardware releases, target acquisition prices, and purchase channels.
 * **Curated News & Rumors**: Built-in Apple ecosystem RSS feed aggregator to stay up to date with new announcements.
