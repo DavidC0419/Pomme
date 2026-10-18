@@ -106,6 +106,12 @@ Select the **Pomme** scheme and target destination (Mac, iPhone, or Apple Watch)
 
 ---
 
+## 💬 Community & Feedback
+
+Have ideas, missing hardware models, or need help? Join the discussion on our pinned **[Community Feedback & Suggestions Issue #1](https://github.com/DavidC0419/Pomme/issues/1)**!
+
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
