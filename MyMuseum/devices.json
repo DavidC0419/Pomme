@@ -1,0 +1,1548 @@
+[
+  {
+    "id": "Mac-1",
+    "name": "Mac mini",
+    "model": "A1176",
+    "category": "Mac",
+    "year": "Mid 2007",
+    "color": "",
+    "processor": "M2 Pro"
+  },
+  {
+    "id": "Mac-2",
+    "name": "Macbook",
+    "model": "A1181",
+    "category": "Mac",
+    "year": "2007",
+    "color": ""
+  },
+  {
+    "id": "Mac-3",
+    "name": "Mac mini",
+    "model": "A1283",
+    "category": "Mac",
+    "year": "2023",
+    "color": "",
+    "processor": "M2 Pro"
+  },
+  {
+    "id": "Mac-4",
+    "name": "MacBook pro 17\"",
+    "model": "A1297",
+    "category": "Mac",
+    "year": "2010",
+    "color": ""
+  },
+  {
+    "id": "Mac-5",
+    "name": "Mac mini 2012",
+    "model": "A1347",
+    "category": "Mac",
+    "year": "2012",
+    "color": ""
+  },
+  {
+    "id": "Mac-6",
+    "name": "MacBook air",
+    "model": "A1465",
+    "category": "Mac",
+    "year": "2015",
+    "color": ""
+  },
+  {
+    "id": "Mac-7",
+    "name": "Mac pro",
+    "model": "A1481",
+    "category": "Mac",
+    "year": "2013",
+    "color": "",
+    "processor": "M2 Ultra"
+  },
+  {
+    "id": "Mac-8",
+    "name": "Macbook",
+    "model": "A1534",
+    "category": "Mac",
+    "year": "2017",
+    "color": ""
+  },
+  {
+    "id": "Mac-9",
+    "name": "MacBook pro",
+    "model": "A1707",
+    "category": "Mac",
+    "year": "2017",
+    "color": "",
+    "processor": "M2 Pro"
+  },
+  {
+    "id": "Mac-10",
+    "name": "MacBook pro",
+    "model": "A3186",
+    "category": "Mac",
+    "year": "2024",
+    "color": "",
+    "processor": "M2 Pro"
+  },
+  {
+    "id": "Mac-11",
+    "name": "Mac mini M4",
+    "model": "A3238",
+    "category": "Mac",
+    "year": "2024",
+    "color": ""
+  },
+  {
+    "id": "iPod-1",
+    "name": "iPod 2",
+    "model": "A1019",
+    "category": "iPod",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "iPod-2",
+    "name": "iPod 3",
+    "model": "A1040",
+    "category": "iPod",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "iPod-3",
+    "name": "iPod mini 1",
+    "model": "A1051",
+    "category": "iPod",
+    "year": "2004",
+    "color": "",
+    "processor": "PortalPlayer PP5020"
+  },
+  {
+    "id": "iPod-4",
+    "name": "iPod 4",
+    "model": "A1059",
+    "category": "iPod",
+    "year": "2002-07-01 00:00:00",
+    "color": ""
+  },
+  {
+    "id": "iPod-5",
+    "name": "iPod photo",
+    "model": "A1099",
+    "category": "iPod",
+    "year": "2004",
+    "color": "",
+    "processor": "PortalPlayer PP5020"
+  },
+  {
+    "id": "iPod-6",
+    "name": "iPod shuffle 1",
+    "model": "A1112",
+    "category": "iPod",
+    "year": "2005-01-01 00:00:00",
+    "color": "",
+    "processor": "SigmaTel STMP3550"
+  },
+  {
+    "id": "iPod-7",
+    "name": "iPod video U2",
+    "model": "A1136",
+    "category": "iPod",
+    "year": "2006",
+    "color": "Black",
+    "artworkAssetName": "catalog_iPod_with_video-u2_d50928e4"
+  },
+  {
+    "id": "iPod-8",
+    "name": "iPod nono 1",
+    "model": "A1137",
+    "category": "iPod",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "iPod-9",
+    "name": "iPod nono 2",
+    "model": "A1199",
+    "category": "iPod",
+    "year": "",
+    "color": "\u7c89\u8272"
+  },
+  {
+    "id": "iPod-11",
+    "name": "iPod shuffle 2",
+    "model": "A1204",
+    "category": "iPod",
+    "year": "2005",
+    "color": "",
+    "processor": "SigmaTel STMP3550"
+  },
+  {
+    "id": "iPod-12",
+    "name": "iPod touch 1",
+    "model": "A1213",
+    "category": "iPod",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "iPod-13",
+    "name": "iPod nono 3",
+    "model": "A1236",
+    "category": "iPod",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "iPod-14",
+    "name": "iPod classic 1",
+    "model": "A1238",
+    "category": "iPod",
+    "year": "2007",
+    "color": "\u94f6\u8272",
+    "processor": "Samsung S5L8702"
+  },
+  {
+    "id": "iPod-15",
+    "name": "iPod shuffle 3",
+    "model": "A1271",
+    "category": "iPod",
+    "year": "2005",
+    "color": "\u84dd\u8272",
+    "processor": "SigmaTel STMP3550"
+  },
+  {
+    "id": "iPod-17",
+    "name": "iPod nono 4",
+    "model": "A1285",
+    "category": "iPod",
+    "year": "",
+    "color": "\u7ea2\u8272"
+  },
+  {
+    "id": "iPod-18",
+    "name": "iPod touch 2",
+    "model": "A1288",
+    "category": "iPod",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "iPod-19",
+    "name": "iPod nono 5",
+    "model": "A1320",
+    "category": "iPod",
+    "year": "",
+    "color": "\u7c89\u8272"
+  },
+  {
+    "id": "iPod-20",
+    "name": "iPod nano 6",
+    "model": "A1366",
+    "category": "iPod",
+    "year": "2010-09-01 00:00:00",
+    "color": "",
+    "processor": "PortalPlayer PP5021C"
+  },
+  {
+    "id": "iPod-21",
+    "name": "iPod touch 4",
+    "model": "A1367",
+    "category": "iPod",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "iPod-22",
+    "name": "iPod shuffle 4",
+    "model": "A1373",
+    "category": "iPod",
+    "year": "2015-07-01 00:00:00",
+    "color": "\u91d1\u8272",
+    "processor": "SigmaTel STMP3550"
+  },
+  {
+    "id": "iPod-23",
+    "name": "iPod touch 5",
+    "model": "A1421",
+    "category": "iPod",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "iPod-24",
+    "name": "iPod nano 7",
+    "model": "A1446",
+    "category": "iPod",
+    "year": "2005",
+    "color": "",
+    "processor": "PortalPlayer PP5021C"
+  },
+  {
+    "id": "iPod-25",
+    "name": "iPod touch 6",
+    "model": "A1574",
+    "category": "iPod",
+    "year": "",
+    "color": "\u7ea2\u8272"
+  },
+  {
+    "id": "iPhone-1",
+    "name": "iPhone",
+    "model": "A1203",
+    "category": "iPhone",
+    "year": "2007",
+    "color": "",
+    "processor": "Samsung S5L8900"
+  },
+  {
+    "id": "iPhone-2",
+    "name": "iphone 3GS",
+    "model": "A1303",
+    "category": "iPhone",
+    "year": "2009",
+    "color": "",
+    "processor": "Samsung S5L8920"
+  },
+  {
+    "id": "iPhone-3",
+    "name": "A1325",
+    "model": "A1325",
+    "category": "iPhone",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "iPhone-4",
+    "name": "iPhone 4",
+    "model": "A1332",
+    "category": "iPhone",
+    "year": "2010",
+    "color": ""
+  },
+  {
+    "id": "iPhone-5",
+    "name": "iPhone 4S",
+    "model": "A1431",
+    "category": "iPhone",
+    "year": "2011",
+    "color": "",
+    "processor": "A5"
+  },
+  {
+    "id": "iPhone-6",
+    "name": "iPhone 5C",
+    "model": "A1532",
+    "category": "iPhone",
+    "year": "2013",
+    "color": ""
+  },
+  {
+    "id": "iPhone-7",
+    "name": "iphone SE",
+    "model": "A1723",
+    "category": "iPhone",
+    "year": "2007",
+    "color": "",
+    "processor": "Samsung S5L8900"
+  },
+  {
+    "id": "iPhone-x",
+    "name": "iPhone 8 Plus",
+    "model": "A1864",
+    "category": "iPhone",
+    "year": "2007",
+    "color": "",
+    "processor": "Samsung S5L8900"
+  },
+  {
+    "id": "iPhone-x-2",
+    "name": "iPhone 11 Pro",
+    "model": "A2160",
+    "category": "iPhone",
+    "year": "2019",
+    "color": "",
+    "processor": "A13"
+  },
+  {
+    "id": "iPhone-x-3",
+    "name": "iPhone 13 mini",
+    "model": "A2481",
+    "category": "iPhone",
+    "year": "2021",
+    "color": "",
+    "processor": "A15"
+  },
+  {
+    "id": "iPhone-x-4",
+    "name": "iPhone 14 pro Max",
+    "model": "A2896",
+    "category": "iPhone",
+    "year": "2022",
+    "color": "",
+    "processor": "A16"
+  },
+  {
+    "id": "iPhone-x-5",
+    "name": "iPhone 17 Pro Max",
+    "model": "A3257",
+    "category": "iPhone",
+    "year": "2025",
+    "color": "",
+    "processor": "A19 Pro"
+  },
+  {
+    "id": "iPad-1",
+    "name": "iPad",
+    "model": "A1219",
+    "category": "iPad",
+    "year": "2010",
+    "color": "\u9ed1\u8272",
+    "processor": "A4"
+  },
+  {
+    "id": "iPad-2",
+    "name": "iPad 2",
+    "model": "A1395",
+    "category": "iPad",
+    "year": "",
+    "color": "\u9ed1\u8272"
+  },
+  {
+    "id": "iPad-3",
+    "name": "iPad 3",
+    "model": "A1416",
+    "category": "iPad",
+    "year": "2010",
+    "color": "\u767d\u8272",
+    "processor": "A4"
+  },
+  {
+    "id": "iPad-4",
+    "name": "iPad mini 1",
+    "model": "A1432",
+    "category": "iPad",
+    "year": "2010",
+    "color": "\u767d\u8272",
+    "processor": "A4"
+  },
+  {
+    "id": "iPad-5",
+    "name": "iPad 4",
+    "model": "A1458",
+    "category": "iPad",
+    "year": "2010",
+    "color": "\u9ed1\u8272",
+    "processor": "A4"
+  },
+  {
+    "id": "iPad-6",
+    "name": "iPad mini 2",
+    "model": "A1489",
+    "category": "iPad",
+    "year": "2010",
+    "color": "\u767d\u8272",
+    "processor": "A4"
+  },
+  {
+    "id": "iPad-7",
+    "name": "iPad 6",
+    "model": "A1893",
+    "category": "iPad",
+    "year": "2010",
+    "color": "\u767d\u8272",
+    "processor": "A4"
+  },
+  {
+    "id": "iPad-8",
+    "name": "iPad mini 6th gen",
+    "model": "A2567",
+    "category": "iPad",
+    "year": "2010",
+    "color": "\u7c89\u8272",
+    "processor": "A4"
+  },
+  {
+    "id": "iPad-9",
+    "name": "iPad Pro 12.9 6th gen",
+    "model": "A2764",
+    "category": "iPad",
+    "year": "2010",
+    "color": "\u6df1\u7a7a\u7070\u8272",
+    "processor": "A4"
+  },
+  {
+    "id": "Apple watch-1",
+    "name": "Watch Sport 38mm",
+    "model": "A1553",
+    "category": "Apple watch",
+    "year": "2015",
+    "color": "\u6df1\u7a7a\u7070\u8272"
+  },
+  {
+    "id": "Apple watch-2",
+    "name": "Watch Sport 42mm",
+    "model": "A1554",
+    "category": "Apple watch",
+    "year": "2015",
+    "color": "\u6df1\u7a7a\u7070\u8272"
+  },
+  {
+    "id": "Apple watch-3",
+    "name": "Apple watch S1",
+    "model": "A1803",
+    "category": "Apple watch",
+    "year": "",
+    "color": "\u6df1\u7a7a\u7070\u8272"
+  },
+  {
+    "id": "Apple watch-4",
+    "name": "Apple watch S2",
+    "model": "A1758",
+    "category": "Apple watch",
+    "year": "2017",
+    "color": "\u6df1\u7a7a\u7070\u8272"
+  },
+  {
+    "id": "Apple watch-6",
+    "name": "Apple watch S4",
+    "model": "A2008",
+    "category": "Apple watch",
+    "year": "2019",
+    "color": "\u6df1\u7a7a\u7070\u8272"
+  },
+  {
+    "id": "Apple watch-7",
+    "name": "Apple watch S9",
+    "model": "A2980",
+    "category": "Apple watch",
+    "year": "",
+    "color": "\u6df1\u7a7a\u7070\u8272"
+  },
+  {
+    "id": "Airpods-1",
+    "name": "In Ear headphone",
+    "model": "A1307",
+    "category": "Audio Accessories",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "Airpods-2",
+    "name": "AirPods",
+    "model": "",
+    "category": "Airpods",
+    "year": "2016",
+    "color": "",
+    "processor": "W1"
+  },
+  {
+    "id": "Airpods-3",
+    "name": "AirPods 2",
+    "model": "",
+    "category": "Airpods",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "Airpods-4",
+    "name": "Airpods pro 1",
+    "model": "",
+    "category": "Airpods",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "Airpods-5",
+    "name": "AirPods Max",
+    "model": "A2096",
+    "category": "Airpods",
+    "year": "2020",
+    "color": "\u6df1\u7a7a\u9ed1\u8272",
+    "processor": "H1"
+  },
+  {
+    "id": "Airpods-6",
+    "name": "Airpods 3",
+    "model": "",
+    "category": "Airpods",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "Airpods-x",
+    "name": "Earpods\uff08USB-C\uff09",
+    "model": "A3046",
+    "category": "Audio Accessories",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "Airpods-7",
+    "name": "Airpods pro 2",
+    "model": "A3049",
+    "category": "Airpods",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "Airpods-8",
+    "name": "Airpods 4(ANC)",
+    "model": "A3057",
+    "category": "Airpods",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "Airpods-9",
+    "name": "Airpods pro 3",
+    "model": "A3122",
+    "category": "Airpods",
+    "year": "2025",
+    "color": "",
+    "processor": "H2"
+  },
+  {
+    "id": "Airpods-10",
+    "name": "AirPods Max 2",
+    "model": "A3454",
+    "category": "Airpods",
+    "year": "2026",
+    "color": "\u84dd\u8272",
+    "processor": "H2"
+  },
+  {
+    "id": "Vision pro-1",
+    "name": "Vision pro",
+    "model": "A2117",
+    "category": "Vision pro",
+    "year": "2023",
+    "color": "200/300 50\u6563\u5149\uff081199\u5b98\u7f51\u8d2d\u4e70\uff09",
+    "processor": "['M2', 'R1']"
+  },
+  {
+    "id": "AppleTV-1",
+    "name": "Apple TV1",
+    "model": "A1218",
+    "category": "AppleTV",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "AppleTV-2",
+    "name": "Apple TV3",
+    "model": "A1469",
+    "category": "AppleTV",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "AppleTV-3",
+    "name": "Apple TV 4k",
+    "model": "A1842",
+    "category": "AppleTV",
+    "year": "2017",
+    "color": "",
+    "processor": "A12"
+  },
+  {
+    "id": "HomePod-1",
+    "name": "HomePod",
+    "model": "A1639",
+    "category": "HomePod",
+    "year": "2018",
+    "color": "\u767d\u8272",
+    "processor": "A8"
+  },
+  {
+    "id": "HomePod-3",
+    "name": "HomePod mini",
+    "model": "A2374",
+    "category": "HomePod",
+    "year": "2020",
+    "color": "\u767d\u8272",
+    "processor": "S5"
+  },
+  {
+    "id": "Remote-1",
+    "name": "A1156",
+    "model": "A1156",
+    "category": "Remote",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "Remote-2",
+    "name": "A1962",
+    "model": "A1962",
+    "category": "Remote",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "Airport-1",
+    "name": "AirPort Extreme Base Station (with Modem)",
+    "model": "A1034",
+    "category": "Airport",
+    "year": "2003-01-01 00:00:00",
+    "color": "",
+    "processor": "AMD Alchemy Au1500"
+  },
+  {
+    "id": "Airport-2",
+    "name": "AirPort Express 802.11n 1st Gen",
+    "model": "A1264",
+    "category": "Airport",
+    "year": "2008-03-01 00:00:00",
+    "color": ""
+  },
+  {
+    "id": "Airport-3",
+    "name": "AirPort Express 802.11n 2nd",
+    "model": "A1392",
+    "category": "Airport",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "Airport-4",
+    "name": "AirPort Extreme 802.11n 5th",
+    "model": "A1408",
+    "category": "Airport",
+    "year": "2011-06-01 00:00:00",
+    "color": ""
+  },
+  {
+    "id": "Airport-5",
+    "name": "AirPort Time Capsule 802.11ac",
+    "model": "A1470",
+    "category": "Airport",
+    "year": "2013-06-01 00:00:00",
+    "color": ""
+  },
+  {
+    "id": "Apple pencil-1",
+    "name": "Apple pencil 1",
+    "model": "A1603",
+    "category": "Apple pencil",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "Apple pencil-2",
+    "name": "Apple pencil 2",
+    "model": "A2051",
+    "category": "Apple pencil",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "\u9f20\u6807-1",
+    "name": "A1152",
+    "model": "A1152",
+    "category": "\u9f20\u6807",
+    "year": "",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "\u9f20\u6807-2",
+    "name": "A1296",
+    "model": "A1296",
+    "category": "\u9f20\u6807",
+    "year": "",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "\u9f20\u6807-4",
+    "name": "Magic Trackpad 2",
+    "model": "A1535",
+    "category": "\u9f20\u6807",
+    "year": "2015",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "\u9f20\u6807-5",
+    "name": "A1657",
+    "model": "A1657",
+    "category": "\u9f20\u6807",
+    "year": "",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "\u952e\u76d8-1",
+    "name": "A1314",
+    "model": "A1314",
+    "category": "\u952e\u76d8",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "\u952e\u76d8-2",
+    "name": "iPad Keyboard Dock",
+    "model": "A1359",
+    "category": "\u952e\u76d8",
+    "year": "2010",
+    "color": ""
+  },
+  {
+    "id": "\u952e\u76d8-3",
+    "name": "Magic Keyboard",
+    "model": "A1644",
+    "category": "\u952e\u76d8",
+    "year": "2020",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "\u952e\u76d8-4",
+    "name": "Magic Keyboard",
+    "model": "",
+    "category": "\u952e\u76d8",
+    "year": "2020",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "\u952e\u76d8-5",
+    "name": "Magic Keyboard",
+    "model": "A1998",
+    "category": "\u952e\u76d8",
+    "year": "2020",
+    "color": ""
+  },
+  {
+    "id": "\u952e\u76d8-6",
+    "name": "A2520",
+    "model": "A2520",
+    "category": "\u952e\u76d8",
+    "year": "",
+    "color": "\u9ed1\u8272"
+  },
+  {
+    "id": "MagSafe\u5145\u7535\u8bbe\u5907-1",
+    "name": "MagSafe Charger",
+    "model": "A2140",
+    "category": "MagSafe\u5145\u7535\u8bbe\u5907",
+    "year": "2020",
+    "color": ""
+  },
+  {
+    "id": "MagSafe\u5145\u7535\u8bbe\u5907-3",
+    "name": "MagSafe Battery Pack",
+    "model": "A2384",
+    "category": "MagSafe\u5145\u7535\u8bbe\u5907",
+    "year": "2021",
+    "color": ""
+  },
+  {
+    "id": "MagSafe\u5145\u7535\u8bbe\u5907-4",
+    "name": "Magsafe Duo Charge",
+    "model": "A2458",
+    "category": "MagSafe\u5145\u7535\u8bbe\u5907",
+    "year": "2020",
+    "color": ""
+  },
+  {
+    "id": "AirTag-1",
+    "name": "Airtag",
+    "model": "A2187",
+    "category": "AirTag",
+    "year": "2021",
+    "color": "",
+    "processor": "nRF52832"
+  },
+  {
+    "id": "AirTag-6",
+    "name": "Airtig2",
+    "model": "A2932",
+    "category": "AirTag",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "Adapter-1",
+    "name": "iPod Power Adapter",
+    "model": "A1070",
+    "category": "Adapter",
+    "year": "2003",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-2",
+    "name": "Magsafe Power Adapter",
+    "model": "A1184",
+    "category": "Adapter",
+    "year": "2006",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-3",
+    "name": "A1265",
+    "model": "A1265",
+    "category": "Adapter",
+    "year": "2008",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-4",
+    "name": "A1357",
+    "model": "A1357",
+    "category": "Adapter",
+    "year": "2010",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-8",
+    "name": "Battery Charger",
+    "model": "A1360",
+    "category": "Adapter",
+    "year": "2010",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-9",
+    "name": "A1401",
+    "model": "A1401",
+    "category": "Adapter",
+    "year": "2012",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-12",
+    "name": "A1402",
+    "model": "A1402",
+    "category": "Adapter",
+    "year": "2012",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-13",
+    "name": "Magsafe 2 Power Adapter",
+    "model": "A1436",
+    "category": "Adapter",
+    "year": "2012",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-15",
+    "name": "A1443",
+    "model": "A1443",
+    "category": "Adapter",
+    "year": "2012",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-17",
+    "name": "USB-C Power Adapter",
+    "model": "A1540",
+    "category": "Adapter",
+    "year": "2015",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-18",
+    "name": "iPhone Lightning Dock",
+    "model": "A1717",
+    "category": "Adapter",
+    "year": "2015",
+    "color": "\u9999\u69df\u91d1"
+  },
+  {
+    "id": "Adapter-20",
+    "name": "USB-C Power Adapter",
+    "model": "A1718",
+    "category": "Adapter",
+    "year": "2016",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-21",
+    "name": "USB-C Power Adapter",
+    "model": "A1719",
+    "category": "Adapter",
+    "year": "2016",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-22",
+    "name": "A1720",
+    "model": "A1720",
+    "category": "Adapter",
+    "year": "2018",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-23",
+    "name": "Beats Power Adapter",
+    "model": "A1731",
+    "category": "Adapter",
+    "year": "2016",
+    "color": "\u9ed1\u8272"
+  },
+  {
+    "id": "Adapter-24",
+    "name": "USB-C Power Adapter",
+    "model": "A1882",
+    "category": "Adapter",
+    "year": "2018",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-26",
+    "name": "USB-C Power Adapter",
+    "model": "A2164",
+    "category": "Adapter",
+    "year": "2020",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-27",
+    "name": "USB-C Power Adapter",
+    "model": "A2166",
+    "category": "Adapter",
+    "year": "2019",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-28",
+    "name": "A2244",
+    "model": "A2244",
+    "category": "Adapter",
+    "year": "2020",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-30",
+    "name": "USB-C Power Adapter",
+    "model": "A2452",
+    "category": "Adapter",
+    "year": "2021",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-32",
+    "name": "USB-C Power Adapter",
+    "model": "A2518",
+    "category": "Adapter",
+    "year": "2021",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-33",
+    "name": "A2571",
+    "model": "A2571",
+    "category": "Adapter",
+    "year": "2022",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-36",
+    "name": "USB-C Power Adapter",
+    "model": "A2676",
+    "category": "Adapter",
+    "year": "2022",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-38",
+    "name": "USB-C Power Adapter",
+    "model": "A2743",
+    "category": "Adapter",
+    "year": "2023",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Adapter-39",
+    "name": "World Travel Adapter Kit",
+    "model": "",
+    "category": "Adapter",
+    "year": "2003",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Beats-1",
+    "name": "urBeats2",
+    "model": "",
+    "category": "Beats",
+    "year": "",
+    "color": "\u7ea2\u767d"
+  },
+  {
+    "id": "Beats-2",
+    "name": "Powerbeats2",
+    "model": "B0516",
+    "category": "Beats",
+    "year": "",
+    "color": "Flash Bule"
+  },
+  {
+    "id": "Beats-4",
+    "name": "Beats Solo2",
+    "model": "B0534",
+    "category": "Beats",
+    "year": "",
+    "color": "Shock Yellow"
+  },
+  {
+    "id": "Beats-5",
+    "name": "Beats Pill+",
+    "model": "A1680",
+    "category": "Beats",
+    "year": "2015",
+    "color": "\u7ea2\u8272"
+  },
+  {
+    "id": "Beats-7",
+    "name": "Beats X",
+    "model": "A1736",
+    "category": "Beats",
+    "year": "2019.5",
+    "color": ""
+  },
+  {
+    "id": "Beats-8",
+    "name": "Beats EP",
+    "model": "A1746",
+    "category": "Beats",
+    "year": "2016",
+    "color": "\u767d\u8272"
+  },
+  {
+    "id": "Beats-9",
+    "name": "urBeats3",
+    "model": "A1750",
+    "category": "Beats",
+    "year": "",
+    "color": "Defiant Black-Red"
+  },
+  {
+    "id": "Beats-11",
+    "name": "Powerbeats\u00b3",
+    "model": "A1747",
+    "category": "Beats",
+    "year": "2016",
+    "color": "Siren Red",
+    "processor": "W1"
+  },
+  {
+    "id": "Beats-15",
+    "name": "Beats Solo\u00b3",
+    "model": "A1796",
+    "category": "Beats",
+    "year": "2017",
+    "color": "College Red",
+    "processor": "W1"
+  },
+  {
+    "id": "Beats-21",
+    "name": "Solo Pro",
+    "model": "A1881",
+    "category": "Beats",
+    "year": "2022",
+    "color": "",
+    "processor": "H1"
+  },
+  {
+    "id": "Beats-22",
+    "name": "Beats Studio\u00b3",
+    "model": "A1914",
+    "category": "Beats",
+    "year": "2021",
+    "color": "Shadow Gray",
+    "processor": "W1"
+  },
+  {
+    "id": "Beats-23",
+    "name": "urBeats3",
+    "model": "A1942",
+    "category": "Beats",
+    "year": "",
+    "color": "\u9ec4\u8272"
+  },
+  {
+    "id": "Beats-25",
+    "name": "Powerbeats\u2074",
+    "model": "A2015",
+    "category": "Beats",
+    "year": "",
+    "color": "\u7ea2\u8272"
+  },
+  {
+    "id": "Beats-26",
+    "name": "Powerbeats Pro",
+    "model": "A2048",
+    "category": "Beats",
+    "year": "2019",
+    "color": "\u51b0\u5ddd\u84dd\uff08Glacier Blue\uff09",
+    "processor": "H1"
+  },
+  {
+    "id": "Beats-27",
+    "name": "Beats Flex",
+    "model": "A2295",
+    "category": "Beats",
+    "year": "2020",
+    "color": "\u9ec4\u8272",
+    "processor": "W1"
+  },
+  {
+    "id": "Beats-28",
+    "name": "Beats Studio Buds +",
+    "model": "A2870",
+    "category": "Beats",
+    "year": "2023",
+    "color": "\u900f\u660e"
+  },
+  {
+    "id": "Beats-29",
+    "name": "Beats Studio Pro",
+    "model": "A2924",
+    "category": "Beats",
+    "year": "2023",
+    "color": "\u68d5\u8272"
+  },
+  {
+    "id": "Beats-30",
+    "name": "Beats Solo 4",
+    "model": "A3140",
+    "category": "Beats",
+    "year": "2024",
+    "color": "\u731b\u7537\u7c89"
+  },
+  {
+    "id": "\u6269\u5c55\u575e-1",
+    "name": "A1440",
+    "model": "A1440",
+    "category": "\u6269\u5c55\u575e",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "\u6269\u5c55\u575e-2",
+    "name": "A1620",
+    "model": "A1620",
+    "category": "\u6269\u5c55\u575e",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "\u6269\u5c55\u575e-3",
+    "name": "A1621",
+    "model": "A1621",
+    "category": "\u6269\u5c55\u575e",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "\u6269\u5c55\u575e-4",
+    "name": "A1632",
+    "model": "A1632",
+    "category": "\u6269\u5c55\u575e",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "\u6269\u5c55\u575e-5",
+    "name": "A1897",
+    "model": "A1897",
+    "category": "\u6269\u5c55\u575e",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "\u6269\u5c55\u575e-6",
+    "name": "A2082",
+    "model": "A2082",
+    "category": "\u6269\u5c55\u575e",
+    "year": "",
+    "color": ""
+  },
+  {
+    "id": "AppleTV-4",
+    "name": "Apple TV 4K (4th generation)",
+    "model": "A3220",
+    "category": "AppleTV",
+    "year": "2026",
+    "color": "\u9ed1\u8272",
+    "processor": "Apple A19"
+  },
+  {
+    "id": "HomePod-4",
+    "name": "HomePod mini 2",
+    "model": "A3230",
+    "category": "HomePod",
+    "year": "2026",
+    "color": "\u661f\u5149\u8272",
+    "processor": "Apple S10"
+  },
+  {
+    "id": "HomeView-1",
+    "name": "Apple HomeView (Tabletop)",
+    "model": "A3210",
+    "category": "Home",
+    "year": "2026",
+    "color": "\u94f6\u8272",
+    "processor": "Apple A18"
+  },
+  {
+    "id": "HomeView-2",
+    "name": "Apple HomeView (Wall-Mounted)",
+    "model": "A3211",
+    "category": "Home",
+    "year": "2026",
+    "color": "\u767d\u8272",
+    "processor": "Apple A18"
+  },
+  {
+    "id": "HomeAccessory-1",
+    "name": "LG Smart Video Doorbell (Apple Home Collection)",
+    "model": "LG-HDB1",
+    "category": "Home",
+    "year": "2026",
+    "color": "\u9ed1\u8272",
+    "processor": "LG Neural Engine 2.5K"
+  },
+  {
+    "id": "HomeAccessory-2",
+    "name": "LG Smart Deadbolt Lock (Apple Home Collection)",
+    "model": "LG-HDL1",
+    "category": "Home",
+    "year": "2026",
+    "color": "\u6df1\u7a7a\u7070",
+    "processor": "Apple Home Key UWB Coprocessor"
+  },
+  {
+    "id": "HomeAccessory-3",
+    "name": "LG Smart 2K Camera (Apple Home Collection)",
+    "model": "LG-HDC1",
+    "category": "Home",
+    "year": "2026",
+    "color": "\u767d\u8272",
+    "processor": "LG ISP 2K HDR"
+  },
+  {
+    "id": "HomeAccessory-4",
+    "name": "Schneider Electric Smart Thermostat (Apple Home Collection)",
+    "model": "SE-WSH1",
+    "category": "Home",
+    "year": "2026",
+    "color": "\u767d\u8272",
+    "processor": "Schneider Wiser Energy MCU"
+  },
+  {
+    "id": "HomeAccessory-5",
+    "name": "Schneider Electric Smart Energy Sensor Pack",
+    "model": "SE-WSP1",
+    "category": "Home",
+    "year": "2026",
+    "color": "\u767d\u8272",
+    "processor": "Schneider PowerLogic CT"
+  },
+  {
+    "id": "Apple-I",
+    "name": "Apple I",
+    "category": "Mac",
+    "model": "A1",
+    "year": "1976",
+    "processor": "MOS 6502 @ 1.0 MHz",
+    "color": "Custom Wood",
+    "colors": [
+      "Custom Wood",
+      "Motherboard"
+    ],
+    "artworkAssetName": "catalog_Apple_I"
+  },
+  {
+    "id": "Apple-II",
+    "name": "Apple II",
+    "category": "Mac",
+    "model": "A2S1",
+    "year": "1977",
+    "processor": "MOS 6502 @ 1.023 MHz",
+    "color": "Beige",
+    "colors": [
+      "Beige"
+    ],
+    "artworkAssetName": "catalog_Apple_II"
+  },
+  {
+    "id": "Apple-II-Plus",
+    "name": "Apple II Plus",
+    "category": "Mac",
+    "model": "A2S1016, A2S1032, A2S1048",
+    "year": "1979",
+    "processor": "MOS 6502 @ 1.023 MHz",
+    "color": "Beige",
+    "colors": [
+      "Beige"
+    ],
+    "artworkAssetName": "catalog_Apple_II_Plus"
+  },
+  {
+    "id": "Apple-III",
+    "name": "Apple III",
+    "category": "Mac",
+    "model": "A3S0001",
+    "year": "1980",
+    "processor": "SynerTek 6502A @ 1.8 MHz",
+    "color": "Beige",
+    "colors": [
+      "Beige"
+    ],
+    "artworkAssetName": "catalog_Apple_III"
+  },
+  {
+    "id": "Apple-IIe",
+    "name": "Apple IIe",
+    "category": "Mac",
+    "model": "A2S2064",
+    "year": "1983",
+    "processor": "MOS 6502 @ 1.023 MHz",
+    "color": "Beige",
+    "colors": [
+      "Beige"
+    ],
+    "artworkAssetName": "catalog_Apple_IIe"
+  },
+  {
+    "id": "Apple-Lisa",
+    "name": "Apple Lisa",
+    "category": "Mac",
+    "model": "A6SB100",
+    "year": "1983",
+    "processor": "Motorola 68000 @ 5.0 MHz",
+    "color": "Beige",
+    "colors": [
+      "Beige"
+    ],
+    "artworkAssetName": "catalog_Apple_Lisa"
+  },
+  {
+    "id": "Apple-III-Plus",
+    "name": "Apple III Plus",
+    "category": "Mac",
+    "model": "A3S0256",
+    "year": "1983",
+    "processor": "MOS 6502B @ 2.0 MHz",
+    "color": "Beige",
+    "colors": [
+      "Beige"
+    ],
+    "artworkAssetName": "catalog_Apple_III_Plus"
+  },
+  {
+    "id": "Apple-IIc",
+    "name": "Apple IIc",
+    "category": "Mac",
+    "model": "A2S4000",
+    "year": "1984",
+    "processor": "65C02 @ 1.023 MHz",
+    "color": "Fog White",
+    "colors": [
+      "Fog White"
+    ],
+    "artworkAssetName": "catalog_Apple_IIc"
+  },
+  {
+    "id": "Apple-IIGS",
+    "name": "Apple IIGS",
+    "category": "Mac",
+    "model": "A2S6000",
+    "year": "1986",
+    "processor": "WDC 65C816 @ 2.8 MHz",
+    "color": "Platinum",
+    "colors": [
+      "Platinum"
+    ],
+    "artworkAssetName": "catalog_Apple_IIGS"
+  },
+  {
+    "id": "Apple-IIe-Platinum",
+    "name": "Apple IIe Platinum",
+    "category": "Mac",
+    "model": "A2S2128",
+    "year": "1987",
+    "processor": "65C02 @ 1.023 MHz",
+    "color": "Platinum",
+    "colors": [
+      "Platinum"
+    ],
+    "artworkAssetName": "catalog_Apple_IIe_Platinum"
+  },
+  {
+    "id": "Apple-IIc-Plus",
+    "name": "Apple IIc Plus",
+    "category": "Mac",
+    "model": "A2S4500",
+    "year": "1988",
+    "processor": "65C02 @ 4.0 MHz",
+    "color": "Platinum",
+    "colors": [
+      "Platinum"
+    ],
+    "artworkAssetName": "catalog_Apple_IIc_Plus"
+  },
+  {
+    "id": "RackMac1,1",
+    "name": "Xserve",
+    "category": "Mac",
+    "model": "M8888, M8889",
+    "year": "2002",
+    "processor": "PowerPC G4 @ 1.0 GHz",
+    "color": "Silver",
+    "colors": [
+      "Silver"
+    ],
+    "artworkAssetName": "catalog_RackMac1_1_a11b22f9"
+  },
+  {
+    "id": "RackMac1,2",
+    "name": "Xserve (Slot Load)",
+    "category": "Mac",
+    "model": "M9216, M9217",
+    "year": "2003",
+    "processor": "PowerPC G4 @ 1.33 GHz",
+    "color": "Silver",
+    "colors": [
+      "Silver"
+    ],
+    "artworkAssetName": "catalog_RackMac1_2_47abdb01"
+  },
+  {
+    "id": "RackMac3,1-2004",
+    "name": "Xserve G5",
+    "category": "Mac",
+    "model": "M9218, M9219",
+    "year": "2004",
+    "processor": "PowerPC G5 (970fx) @ 2.0 GHz",
+    "color": "Silver",
+    "colors": [
+      "Silver"
+    ],
+    "artworkAssetName": "catalog_RackMac3_1-2004_9d99e0f7"
+  },
+  {
+    "id": "Xserve1,1",
+    "name": "Xserve (Late 2006)",
+    "category": "Mac",
+    "model": "MA409",
+    "year": "2006",
+    "processor": "Dual-Core Intel Xeon @ 2.66 GHz",
+    "color": "Silver",
+    "colors": [
+      "Silver"
+    ],
+    "artworkAssetName": "catalog_Xserve1_1_b72e2d27"
+  },
+  {
+    "id": "Xserve3,1",
+    "name": "Xserve (Early 2009)",
+    "category": "Mac",
+    "model": "MB449",
+    "year": "2009",
+    "processor": "Quad-Core Intel Xeon @ 2.26 GHz",
+    "color": "Silver",
+    "colors": [
+      "Silver"
+    ],
+    "artworkAssetName": "catalog_Xserve3_1_99c05074"
+  }
+]

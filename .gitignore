@@ -1,0 +1,32 @@
+# Xcode & Builds
+DerivedData/
+build/
+*.xcuserstate
+project.xcworkspace/xcuserdata/
+*.xcuserdata/
+*.hmap
+*.xccheckout
+*.moved-aside
+
+# Packaging & Disk Images
+*.dmg
+/tmp/Pomme_DMG_Staging/
+
+# OS & Environment
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Personal Collection & Backup Data (Privacy Protection)
+*.csv
+*PersonalCollection*.json
+*PersonalBackup*
+*100Match*
+*Import-Ready*
+PommeSync_Vault*
+Pomme_Keynote*
+xcuserdata/

@@ -1,0 +1,37 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "A different device from your collection every day." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每天从你的藏品中展出一件不同的设备。"
+          }
+        }
+      }
+    },
+    "Open Pomme on iPhone" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 iPhone 上打开 Pomme"
+          }
+        }
+      }
+    },
+    "Today's Exhibit" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日展品"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

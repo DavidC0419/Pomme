@@ -1,0 +1,66 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Count my devices in ${applicationName}" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用${applicationName}统计我的设备"
+          }
+        }
+      }
+    },
+    "Find a serial number in ${applicationName}" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringSet" : {
+            "state" : "new",
+            "values" : [
+              "Find a serial number in ${applicationName}",
+              "Serial number lookup in ${applicationName}"
+            ]
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "在${applicationName}里查序列号"
+          }
+        }
+      }
+    },
+    "How many devices do I have in ${applicationName}" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringSet" : {
+            "state" : "new",
+            "values" : [
+              "How many devices do I have in ${applicationName}",
+              "Count my devices in ${applicationName}"
+            ]
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "我在${applicationName}里有几台设备"
+          }
+        }
+      }
+    },
+    "Serial number lookup in ${applicationName}" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用${applicationName}查找序列号"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
