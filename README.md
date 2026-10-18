@@ -43,22 +43,35 @@ Whether you collect vintage Macintosh computers, classic click-wheel iPods, deve
 * **Hardware Health Checkup**: Dedicated data health audit dashboard highlighting missing prices, empty serial numbers, or incomplete specs across your archive.
 * **Full Keyboard Workflow**: Spacebar QuickLook preview, Arrow navigation, and batch operations.
 
+<p align="center">
+  <img src="docs/screenshots/data_health.png" alt="Data Health Audit Score" width="340">
+</p>
+
 ### 🔋 3. Battery Health & Quarterly Maintenance System
 * **Anti-Starvation Inspection**: Automatically flags preserved battery-powered devices that need quarterly re-charging to prevent lithium battery starvation and swelling.
 * **Daily Driver Exemption**: Mark your everyday devices as "In Use" to automatically exempt them from archival maintenance cycles.
 * **Dynamic Cycle Tracking**: Intelligently tunes recharge frequency based on historical health and battery chemistry.
 * **Vintage & Untracked Support**: One-tap toggling to ignore battery alerts for AC-powered vintage machines or damaged shelf display units.
 
-### 📄 4. High-Resolution Artbook & Valuation PDF Dossier
+### 🎯 4. Wishlist & Launch Drops Radar
+* **Launch Drops Countdown**: Track upcoming hardware releases, target acquisition prices, and purchase channels.
+* **Curated News & Rumors**: Built-in Apple ecosystem RSS feed aggregator to stay up to date with new announcements.
+
+<p align="center">
+  <img src="docs/screenshots/launch_drops.png" alt="Wishlist & Launch Drops" width="48%">
+  <img src="docs/screenshots/news_rumors.png" alt="Apple News & Rumors Aggregator" width="48%">
+</p>
+
+### 📄 5. High-Resolution Artbook & Valuation PDF Dossier
 * **Native CoreGraphics & CoreText Engine**: Exports pixel-perfect, print-ready multi-page A4 PDF dossiers (zero webview rendering, crystal-clear typography).
 * **Asset Valuation Summary**: Calculates total collection monetary valuation, priced item ratios, and categorical asset distribution.
 * **Individual Hardware Dossier**: Includes high-resolution imagery, serial numbers, region models, battery state, and curator acquisition notes.
 
-### ☁️ 5. Decentralized iCloud Drive Vault Sync
+### ☁️ 6. Decentralized iCloud Drive Vault Sync
 * **Zero Third-Party Servers**: No subscription fees, no proprietary cloud databases. Your vault data (`PommeSync_Vault.json`) lives strictly in your personal iCloud Drive folder.
 * **Cross-Device Merge Engine**: Seamless two-way merging, conflict resolution based on timestamps and maintenance logs, and tombstone deletion tracking across Mac, iPhone, and Apple Watch.
 
-### ⌚ 6. Apple Watch & Lock Screen Widgets
+### ⌚ 7. Apple Watch & Lock Screen Widgets
 * **Curator Wrist Companion**: View your collection highlights, favorite pieces, and upcoming battery maintenance alerts right on Apple Watch complications and Lock Screen widgets.
 
 ---
